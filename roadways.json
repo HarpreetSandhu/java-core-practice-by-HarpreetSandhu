@@ -2,31 +2,37 @@
 	{
 	"itemTitle"	:	"Haryana Roadways",
 	"itemDesc"	:	"Haryana Roadways Best",
-	"itemUrl"	:	"http://hartrans.gov.in/ors"
+	"itemUrl"	:	"http://hartrans.gov.in/ors",
+	"itemImg"	:	1
 },
-{
-"itemTitle"	:	"Himacahl Roadways",
-"itemDesc"	:	"Himachal  Roadways Best",
-"itemUrl"	:	"http://hptdc.nic.in/"
-},
-{
-"itemTitle"	:	"Rajsthan Roadways",
-"itemDesc"	:	"Haryana Roadways Best",
-"itemUrl"	:	"https://rsrtconline.rajasthan.gov.in/"
-},
-{
-"itemTitle"	:	"AP Roadways",
-"itemDesc"	:	"Haryana Roadways Best",
-"itemUrl"	:	"http://www.apsrtconline.in/oprs-web/"
-},
-{
-"itemTitle"	:	"PEPSE Roadways",
-"itemDesc"	:	"Haryana Roadways Best",
-"itemUrl"	:	"http://www.busindia.com/busindia_PEPSU.jsp"
-},
-{
-"itemTitle"	:	"PunBus  Roadways",
-"itemDesc"	:	"Haryana Roadways Best",
-"itemUrl"	:	"http://www.punbusonline.com/"
-}
+	{
+	"itemTitle"	:	"Himacahl Roadways",
+	"itemDesc"	:	"Himachal  Roadways Best",
+	"itemUrl"	:	"http://hptdc.nic.in/",
+	"itemImg"	:	1
+	},
+	{
+	"itemTitle"	:	"Rajsthan Roadways",
+	"itemDesc"	:	"Haryana Roadways Best",
+	"itemUrl"	:	"https://rsrtconline.rajasthan.gov.in/",
+	"itemImg"	:	1
+	},
+	{
+	"itemTitle"	:	"AP Roadways",
+	"itemDesc"	:	"Haryana Roadways Best",
+	"itemUrl"	:	"http://www.apsrtconline.in/oprs-web/",
+	"itemImg"	:	1
+	},
+	{
+	"itemTitle"	:	"PEPSE Roadways",
+	"itemDesc"	:	"Haryana Roadways Best",
+	"itemUrl"	:	"http://www.busindia.com/busindia_PEPSU.jsp",
+	"itemImg"	:	1
+	},
+	{
+	"itemTitle"	:	"PunBus  Roadways",
+	"itemDesc"	:	"Haryana Roadways Best",
+	"itemUrl"	:	"http://www.punbusonline.com/",
+	"itemImg"	:	1
+	}
 ]	}
